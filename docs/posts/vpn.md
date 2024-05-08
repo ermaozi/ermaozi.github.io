@@ -41,19 +41,18 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 ## 汇总
 
-点击机场名称可以查看详细情况
 
-|机场名称|地址|试用|最便宜订阅|Telegram群|
+|机场名称|地址|试用|最便宜订阅|
 |---|---|---|---|---|
-|TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|Telegram: Join Group Chat|
-|EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|Telegram: Contact @efcloudgroup|
-|FC|[www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|Telegram: Contact @fccloudchat|
+|TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|
+|EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|
+|FC|[www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|
 
 ## 简介
 
 ### TapFog
 
-注册链接：ss.vgsseven.com
+注册链接：[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)
 
 邀请码：rm5I5qDA
 
@@ -69,7 +68,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 ### EF
 
-注册链接：https://www.efcloud1.com/#/register?code=kbbSUTvm
+注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)
 
 邀请码：kbbSUTvm
 
@@ -83,7 +82,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 ### FC
 
-注册链接：https://www.fccloud.cc/#/register?code=AYsN4z5L
+注册链接：[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)
 
 邀请码：AYsN4z5L
 
