@@ -2,6 +2,8 @@ import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
+
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -34,6 +36,7 @@ export default defineUserConfig({
   }),
 
   plugins: [
+    removeHtmlExtensionPlugin(),
     blogPlugin({
       // Only files under posts are articles
       filter: ({ filePathRelative }) =>
