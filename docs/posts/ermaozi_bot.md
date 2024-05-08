@@ -24,11 +24,11 @@ excerpt: 搭建二猫子剑网三QQ群机器人，保姆级教程。
 
 云服务器优点是稳定，且有公网IP，缺点就是贵。如果是富婆富哥可以无视此缺点。多翻翻，买个最便宜的。
 
-![alt text](/images/ermaozi_bot/image.png)
+![alt text](images/ermaozi_bot/image.png)
 
 购买时地域选择 **上海**，镜像选择 **Docker**
 
-![alt text](/images/ermaozi_bot/image-1.png)
+![alt text](images/ermaozi_bot/image-1.png)
 
 上海离我的服务器近，连接能快一点，镜像选择 Docker 可以不用再装docker，省事。
 
@@ -36,19 +36,19 @@ excerpt: 搭建二猫子剑网三QQ群机器人，保姆级教程。
 
 先进控制台，它的位置是不确定的（位置与样貌随时间改变而改变），但是可以肯定名字不会变，我只能帮你到这了
 
-![alt text](/images/ermaozi_bot/image-2.png)
+![alt text](images/ermaozi_bot/image-2.png)
 
 进入轻量应用服务器
 
-![alt text](/images/ermaozi_bot/image-3.png)
+![alt text](images/ermaozi_bot/image-3.png)
 
 因为我们买的是轻量服务器，所以选这个
 
-![alt text](/images/ermaozi_bot/image-4.png)
+![alt text](images/ermaozi_bot/image-4.png)
 
 （公）后面的ip就是你的公网ip，记下来，存在记事本里，或是抄下来
 
-![alt text](/images/ermaozi_bot/image-5.png)
+![alt text](images/ermaozi_bot/image-5.png)
 
 然后点击更多，选择重置密码，重置完成后，**请运用你的所有智慧，不择手段地记住它，狠狠地记住这个密码**
 
@@ -58,17 +58,17 @@ excerpt: 搭建二猫子剑网三QQ群机器人，保姆级教程。
 
 按 `win + R` 打开运行窗口，输入 `cmd` 回车
 
-![alt text](/images/ermaozi_bot/image-6.png)
+![alt text](images/ermaozi_bot/image-6.png)
 
 输入 `ssh ubuntu@你的服务器ip` 回车
 
-![alt text](/images/ermaozi_bot/image-7.png)
+![alt text](images/ermaozi_bot/image-7.png)
 
 如果是第一次登录服务器，会提示你是否确认连接，输入 `yes` 回车
 
 完成后会提示输入密码，把上面重置过的密码手动输入或是复制进去都可以，**注意**：这个时候输入的密码并不会显示出来，输入完成后直接按回车就好了。
 
-![alt text](/images/ermaozi_bot/image-8.png)
+![alt text](images/ermaozi_bot/image-8.png)
 
 事已至此，你已经成功登录到服务器了。
 
@@ -87,7 +87,7 @@ sudo wget -qO- https://get.docker.com/ | bash
 
 安装成功后，输入 `docker -v` 查看版本号，如果有版本号输出，说明安装成功。
 
-![alt text](/images/ermaozi_bot/image-9.png)
+![alt text](images/ermaozi_bot/image-9.png)
 
 ## 安装 lagrange
 
