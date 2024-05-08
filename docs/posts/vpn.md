@@ -47,7 +47,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 |---|---|---|---|---|
 |TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|Telegram: Join Group Chat|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|Telegram: Contact @efcloudgroup|
-|FC|[/www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|Telegram: Contact @fccloudchat|
+|FC|[www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|Telegram: Contact @fccloudchat|
 
 ## 简介
 
