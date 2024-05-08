@@ -46,7 +46,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 |---|---|---|--|
 |TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|
-|FC|[www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|
+|FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|
 
 ## 简介
 
@@ -82,7 +82,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 ### FC
 
-注册链接：[https://www.fccloud.cc](https://www.fccloud.cc/#/register?code=AYsN4z5L)
+注册链接：[https://user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)
 
 邀请码：AYsN4z5L
 
