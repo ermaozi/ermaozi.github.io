@@ -45,6 +45,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 |机场名称|地址|试用|最便宜订阅|
 |---|---|---|--|
 |TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|
+|泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|
 |FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|
 
@@ -66,6 +67,18 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 第一次买机场的话推荐选择这家。
 
+### 泡泡dig
+
+注册链接：[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)
+
+邀请码：AZ1KsNFT
+
+推广提成比例：20%
+
+试用：无
+
+这个机场在我眼皮子底下运营了两年多，没出过什么大问题。可以尝试一下。
+
 ### EF
 
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)
@@ -76,7 +89,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 试用：无
 
-便宜是真便宜，3 块钱买三个月，每个月 100 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
+便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了，如果大家都买这个机场会导致我拿不到多少佣金。所以希望大家首单能多买几个月。
 
