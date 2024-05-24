@@ -97,12 +97,53 @@ lagrange 是一个支持 OneBot v11 的客户端，我们可以使用它来对�
 
 ```bash
 cd ~
-mkdir lagrange
+mkdir -p ~/lagrange/你的QQ号
 mkdir 你的QQ号
 ```
 
 下载镜像，并初始化
 
 ```bash
-docker run -it --name 你的QQ号 --restart always -v ~/lagrange/你的QQ号:/app/data ghcr.io/konatadev/lagrange.onebot:edge
+docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
+```
+
+修改配置文件
+
+``` json
+{
+    "Logging": {
+        "LogLevel": {
+            "Default": "Information",
+            "Microsoft": "Warning",
+            "Microsoft.Hosting.Lifetime": "Information"
+        }
+    },
+    //"SignServerUrl": "https://kritor.support/lagrange",
+    "SignServerUrl": "https://sign.libfekit.so/api/sign",
+    "Account": {
+        "Uin": 0,
+        "Password": "",
+        "Protocol": "Linux",
+        "AutoReconnect": true,
+        "GetOptimumServer": true
+    },
+    "Message": {
+      "IgnoreSelf": true,
+      "StringPost": false
+    },
+    "QrCode": {
+        "ConsoleCompatibilityMode": false
+    },
+    "Implementations": [
+        {
+            "Type": "ReverseWebSocket",
+            "Host": "wss://ermaozi.cn",
+            "Port": 443,
+            "Suffix": "/onebot/v11/ws",
+            "ReconnectInterval": 5000,
+            "HeartBeatInterval": 5000,
+            "AccessToken": ""
+        }
+    ]
+}
 ```

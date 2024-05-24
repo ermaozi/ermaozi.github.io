@@ -67,7 +67,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 第一次买机场的话推荐选择这家。
 
-### 泡泡dig
+### 泡泡dog
 
 注册链接：[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)
 
