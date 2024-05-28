@@ -118,8 +118,7 @@ docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/
             "Microsoft.Hosting.Lifetime": "Information"
         }
     },
-    //"SignServerUrl": "https://kritor.support/lagrange",
-    "SignServerUrl": "https://sign.libfekit.so/api/sign",
+    "SignServerUrl": "https://sign.jx3my.com",
     "Account": {
         "Uin": 0,
         "Password": "",
@@ -146,4 +145,25 @@ docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/
         }
     ]
 }
+```
+
+常用的 docker 命令
+
+```bash
+
+# 查看日志
+docker logs -f --tail 100 你的QQ号
+
+# 重启容器
+docker restart 你的QQ号
+
+# 重新登录
+cd ~/lagrange/你的QQ号
+rm -f device.json keystore.json lagrange-0.db
+docker rm -f 你的QQ号
+docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
+
+# 清除所有容器日志
+docker ps -qa --no-trunc|xargs -I {} sudo rm -f /var/lib/docker/containers/{}/{}-json.log
+
 ```
