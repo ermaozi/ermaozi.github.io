@@ -93,21 +93,18 @@ sudo wget -qO- https://get.docker.com/ | bash
 
 lagrange 是一个支持 OneBot v11 的客户端，我们可以使用它来对接到我们服务器。
 
-首先创建一个配置文件目录（逐条执行以下命令）：
+创建并修改配置文件
 
-```bash
-cd ~
+点击查看 -> [vim 入门教程](https://www.runoob.com/linux/linux-vim.html)
+
+``` bash
+# 创建目录，目录名称是自己的QQ号，方便以后维护
 mkdir -p ~/lagrange/你的QQ号
-mkdir 你的QQ号
+# 用 vim 打开配置文件
+vim ~/lagrange/你的QQ号/appsetting.json
 ```
 
-下载镜像，并初始化
-
-```bash
-docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
-```
-
-修改配置文件
+将一下内容录入`appsetting.json`
 
 ``` json
 {
@@ -146,6 +143,16 @@ docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/
     ]
 }
 ```
+
+启动你的 lagrange
+
+```bash
+docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
+```
+
+完成扫码登录后按 `Ctrl + C` 退出
+
+## 附录
 
 常用的 docker 命令
 
