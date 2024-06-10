@@ -42,12 +42,12 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 ## 汇总
 
 
-|机场名称|地址|试用|最便宜订阅|
-|---|---|---|--|
-|TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|
-|泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|
-|EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|
-|FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|
+|机场名称|地址|试用|最便宜订阅|备注|
+|---|---|---|--|---|
+|EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
+|泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|需要代理访问|
+|FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
+|TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|暂时无法注册|
 
 ## 简介
 
