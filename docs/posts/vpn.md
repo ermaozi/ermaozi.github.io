@@ -44,12 +44,27 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
+|ssone|[m.ssone.io](http://m.ssone.io/register?aff=aBHsE1pF)| 1天 1G |39元 500G/月|正常访问|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
 |泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|需要代理访问|
 |FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
 |TapFog|[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)|1天 2G|8.8 元 60G/月|暂时无法注册|
 
 ## 简介
+
+### ssone
+
+注册链接：[m.ssone.io](http://m.ssone.io/register?aff=aBHsE1pF)
+
+邀请码：aBHsE1pF
+
+推广提成比例：20%
+
+试用：1天 1G
+
+最便宜的订阅有39元 500G/月。
+
+这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
 
 ### TapFog
 
