@@ -19,7 +19,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：绑定 破阵子
 
-![alt text](image.png)
+![alt text](images/emaozi_bot_doc/image.png)
 
 ### 查看菜单
 
@@ -27,7 +27,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：菜单
 
-![alt text](image-1.png)
+![alt text](images/emaozi_bot_doc/image-1.png)
 
 插件列表：管理员可以通过命令“打开 xxx”来开启或关闭插件开关，其中xxx为上图中插件名称。
  
@@ -39,19 +39,19 @@ excerpt: 二猫子机器人使用说明
 
 该值可以设置为0-99。
 
-![alt text](image-2.png)
+![alt text](images/emaozi_bot_doc/image-2.png)
  
 #### 机器人状态
 
 发送“闭嘴”关闭机器人，发送“说话”打开机器人。
 
-![alt text](image-3.png)
+![alt text](images/emaozi_bot_doc/image-3.png)
 
 #### 绑定区服
 
 发送命令“绑定 区服全称”来绑定或更改区服。
 
-![alt text](image-4.png)
+![alt text](images/emaozi_bot_doc/image-4.png)
 
 查询QQ
 说明：检查该QQ登录天数以及在贴吧是否有被挂历史。
@@ -67,7 +67,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：战绩 破阵子 二猫子丨战绩 二猫子
 
-![alt text](image-15.png)
+![alt text](images/emaozi_bot_doc/image-15.png)
 
 #### 资历分布
 
@@ -75,7 +75,7 @@ excerpt: 二猫子机器人使用说明
 
 口令：资历分布 二猫子/资历分布 破阵子 二猫子
 
-![alt text](image-16.png)
+![alt text](images/emaozi_bot_doc/image-16.png)
 
 #### 资历详细分布
 
@@ -83,7 +83,7 @@ excerpt: 二猫子机器人使用说明
 
 口令：资历分布 秘境 二猫子/资历分布 破阵子 秘境 二猫子
 
-![alt text](image-17.png)
+![alt text](images/emaozi_bot_doc/image-17.png)
 
 #### 烂柯山
 
@@ -91,9 +91,9 @@ excerpt: 二猫子机器人使用说明
 
 命令：烂柯山
 
-![alt text](image-18.png)
+![alt text](images/emaozi_bot_doc/image-18.png)
 
-![alt text](image-19.png)
+![alt text](images/emaozi_bot_doc/image-19.png)
 
 #### 马场
 
@@ -101,7 +101,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：马场
 
-![alt text](image-20.png)
+![alt text](images/emaozi_bot_doc/image-20.png)
 
 #### 避雷
 
@@ -111,7 +111,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：避雷 三猫子 比二猫多了一
 
-![alt text](image-21.png)
+![alt text](images/emaozi_bot_doc/image-21.png)
 
 #### 删除避雷
 
@@ -125,7 +125,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：战功榜 丨 战功榜 服务器 丨上周战功榜 丨 赛季战功榜
 
-![alt text](image-22.png)
+![alt text](images/emaozi_bot_doc/image-22.png)
 
 
 #### 818帖子
@@ -136,7 +136,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：搜索818 先来后到
 
-![alt text](image-23.png)
+![alt text](images/emaozi_bot_doc/image-23.png)
 
 #### 招募
 
@@ -148,7 +148,7 @@ excerpt: 二猫子机器人使用说明
 
 如需翻页请输入命令：招募2
 
-![alt text](image-24.png)
+![alt text](images/emaozi_bot_doc/image-24.png)
 
 #### 交易行
 
@@ -158,7 +158,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：交易行 茶饼
 
-![alt text](image-25.png)
+![alt text](images/emaozi_bot_doc/image-25.png)
 
 #### 副本进度
 
@@ -168,7 +168,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：副本 破阵子 二猫子
 
-![alt text](image-26.png)
+![alt text](images/emaozi_bot_doc/image-26.png)
 
 #### 日常
 
@@ -180,7 +180,7 @@ excerpt: 二猫子机器人使用说明
 
 另外还有：明天日常、后天日常、大后天日常、大大后天日常、大大大后天日常、大大大大后天日常、大大大大大后天日常……
 
-![alt text](image-27.png)
+![alt text](images/emaozi_bot_doc/image-27.png)
 
 #### 日常推演
 
@@ -188,7 +188,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：日常推演
 
-![alt text](image-28.png)
+![alt text](images/emaozi_bot_doc/image-28.png)
 
 #### 百战
 
@@ -196,7 +196,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：百战
 
-![alt text](image-29.png)
+![alt text](images/emaozi_bot_doc/image-29.png)
 
 #### 战阶排行
 
@@ -204,7 +204,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：战阶
 
-![alt text](image-30.png)
+![alt text](images/emaozi_bot_doc/image-30.png)
 
 #### 试炼之地
 
@@ -214,7 +214,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：试炼 藏剑
 
-![alt text](image-31.png)
+![alt text](images/emaozi_bot_doc/image-31.png)
 
 #### 开服
 
@@ -224,7 +224,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：开服 | 开服 破阵子
 
-![alt text](image-32.png)
+![alt text](images/emaozi_bot_doc/image-32.png)
 
 #### 沙盘
 
@@ -234,7 +234,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：沙盘 | 沙盘 破阵子
 
-![alt text](image-33.png)
+![alt text](images/emaozi_bot_doc/image-33.png)
 
 #### 金价
 
@@ -244,7 +244,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：金价 | 金价 破阵子
 
-![alt text](image-34.png)
+![alt text](images/emaozi_bot_doc/image-34.png)
 
 #### 小药
 
@@ -252,7 +252,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：小药
 
-![alt text](image-35.png)
+![alt text](images/emaozi_bot_doc/image-35.png)
 
 #### 资历排行
 
@@ -264,7 +264,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：资历排行 破阵子 藏剑
 
-![alt text](image-36.png)
+![alt text](images/emaozi_bot_doc/image-36.png)
 
 #### 蹲宠
 
@@ -274,7 +274,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：蹲宠 | 蹲宠 破阵子
 
-![alt text](image-37.png)
+![alt text](images/emaozi_bot_doc/image-37.png)
 
 #### 汇总
 
@@ -284,7 +284,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：汇总 | 汇总 破阵子
 
-![alt text](image-38.png)
+![alt text](images/emaozi_bot_doc/image-38.png)
 
 #### 前置
 
@@ -294,7 +294,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：前置 阴阳两界
 
-![alt text](image-39.png)
+![alt text](images/emaozi_bot_doc/image-39.png)
 
 #### 攻略
 
@@ -304,7 +304,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：攻略 阴阳两界
 
-![alt text](image-40.png)
+![alt text](images/emaozi_bot_doc/image-40.png)
 
 #### 奇遇
 
@@ -314,7 +314,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：奇遇 阴阳两界 | 奇遇 破阵子 阴阳两界
 
-![alt text](image-41.png)
+![alt text](images/emaozi_bot_doc/image-41.png)
 
 #### 个人查询
 
@@ -328,7 +328,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：查询绝世 林夏天
 
-![alt text](image-42.png)
+![alt text](images/emaozi_bot_doc/image-42.png)
 
 #### 烟花
 
@@ -338,7 +338,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：烟花 二猫子
 
-![alt text](image-43.png)
+![alt text](images/emaozi_bot_doc/image-43.png)
 
 #### 物价
 
@@ -348,7 +348,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：物价 猴红
 
-![alt text](image-44.png)
+![alt text](images/emaozi_bot_doc/image-44.png)
 
 #### 骚话
 
@@ -374,7 +374,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：放河灯 二猫子最帅
 
-![alt text](image-45.png)
+![alt text](images/emaozi_bot_doc/image-45.png)
 
 #### 捡河灯
 
@@ -386,7 +386,7 @@ excerpt: 二猫子机器人使用说明
 
 例如：“回复河灯 1970 住口！你这个骗子！”在你放出河灯的同时，被回复的同学也会收到一封电子邮件。
 
-![alt text](image-46.png)
+![alt text](images/emaozi_bot_doc/image-46.png)
 
 #### 我的河灯
 
@@ -396,7 +396,7 @@ excerpt: 二猫子机器人使用说明
 
 灰色的是超过了3天的河灯，这些河灯不会被人捡到。
 
-![alt text](image-47.png)
+![alt text](images/emaozi_bot_doc/image-47.png)
 
 #### 江湖
 
@@ -412,7 +412,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：骰子 甜粽子 咸粽子 | 骰子 1-99
 
-![alt text](image-48.png)
+![alt text](images/emaozi_bot_doc/image-48.png)
 
 #### 吃什么
 
@@ -420,7 +420,7 @@ excerpt: 二猫子机器人使用说明
 
 命令：吃什么
 
-![alt text](image-49.png)
+![alt text](images/emaozi_bot_doc/image-49.png)
 
 #### 定时提醒
 
@@ -432,7 +432,7 @@ excerpt: 二猫子机器人使用说明
 
 输入“定时提醒”可查看现有定时提醒内容，输入“删除定时提醒 编号”即可删除。
 
-![alt text](image-50.png)
+![alt text](images/emaozi_bot_doc/image-50.png)
 
 ### 情缘功能
 
@@ -450,11 +450,11 @@ excerpt: 二猫子机器人使用说明
 
 输入“通知设置”即可打开以下界面：
 
-![alt text](image-5.png)
+![alt text](images/emaozi_bot_doc/image-5.png)
 
 管理员可通过“打开/关闭 XX”进行操作。如：打开 开服
 
-![alt text](image-6.png)
+![alt text](images/emaozi_bot_doc/image-6.png)
 
 所有设置需要打开才能正常使用！（蓝色开关为功能成功打开）
  
@@ -464,39 +464,39 @@ excerpt: 二猫子机器人使用说明
 
 如进群通知，命令为：`通知设置 进群 [@QQ]欢迎欢迎啊喵~`
  
- ![alt text](image-7.png)
+ ![alt text](images/emaozi_bot_doc/image-7.png)
  
 #### 自定义文案注意事项：
 
 注意，通知内容中，中括号[xx]里的命令为固定形式，可选择添加或不添加，但格式不可更改。
 
-![alt text](image-8.png)
+![alt text](images/emaozi_bot_doc/image-8.png)
 
 #### 通知条件设置：
 
-![alt text](image-9.png)
+![alt text](images/emaozi_bot_doc/image-9.png)
 
 ##### 奇遇等级设置
 
-![alt text](image-10.png)
+![alt text](images/emaozi_bot_doc/image-10.png)
 
 奇遇通知打开默认推送绝世奇遇，如需推送普通奇遇，请输入口令：`通知条件设置 奇遇 等级:绝世,普通，即可修改奇遇播报通知。`
 
 修改完成界面：
  
-![alt text](image-11.png)
+![alt text](images/emaozi_bot_doc/image-11.png)
 
 ##### 烟花监听设置
 
-![alt text](image-12.png)
+![alt text](images/emaozi_bot_doc/image-12.png)
 
 如需监听某人的烟花情况，可设置：`通知条件设置 烟花 接收人:角色ID 发送人:角色ID,角色`ID
 
-![alt text](image-13.png)
+![alt text](images/emaozi_bot_doc/image-13.png)
 
 修改完成界面：
  
-![alt text](image-14.png)
+![alt text](images/emaozi_bot_doc/image-14.png)
 
 2.3诛恶设置
 诛恶通知可设置艾特本人，可设置：通知设置 诛恶 [时间][服务器]的猪在[地图]饿了，快来。@用户 
