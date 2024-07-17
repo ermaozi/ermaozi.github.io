@@ -101,10 +101,10 @@ lagrange 是一个支持 OneBot v11 的客户端，我们可以使用它来对�
 # 创建目录，目录名称是自己的QQ号，方便以后维护
 mkdir -p ~/lagrange/你的QQ号
 # 用 vim 打开配置文件
-vim ~/lagrange/你的QQ号/appsetting.json
+vim ~/lagrange/你的QQ号/appsettings.json
 ```
 
-将一下内容录入`appsetting.json`
+将一下内容录入`appsettings.json`
 
 ``` json
 {
@@ -147,7 +147,7 @@ vim ~/lagrange/你的QQ号/appsetting.json
 启动你的 lagrange
 
 ```bash
-docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
+docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data docker222.jx3my.com/ermaozi/lagrange
 ```
 
 完成扫码登录后按 `Ctrl + C` 退出
@@ -168,7 +168,7 @@ docker restart 你的QQ号
 cd ~/lagrange/你的QQ号
 rm -f device.json keystore.json lagrange-0.db
 docker rm -f 你的QQ号
-docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data ermaozi/lagrange
+docker run -it --name 你的QQ号 --network host --restart always -v ~/lagrange/你的QQ号:/app/data docker222.jx3my.com/ermaozi/lagrange
 
 # 清除所有容器日志
 docker ps -qa --no-trunc|xargs -I {} sudo rm -f /var/lib/docker/containers/{}/{}-json.log
