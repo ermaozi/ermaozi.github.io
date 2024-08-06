@@ -115,7 +115,7 @@ vim ~/lagrange/你的QQ号/appsettings.json
             "Microsoft.Hosting.Lifetime": "Information"
         }
     },
-    "SignServerUrl": "https://sign.jx3my.com",
+    "SignServerUrl": "https://sign.lagrangecore.org/api/sign/25765",
     "Account": {
         "Uin": 0,
         "Password": "",
