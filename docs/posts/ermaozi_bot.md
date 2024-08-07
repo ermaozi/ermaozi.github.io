@@ -16,6 +16,12 @@ excerpt: 搭建二猫子剑网三QQ群机器人，保姆级教程。
 
 `wss://ermaozi.cn/onebot/v11/ws`
 
+## 针对不爱折腾的一句话攻略
+
+访问我的淘宝店 -> [https://item.taobao.com/item.htm?ft=t&id=822481210366](https://item.taobao.com/item.htm?ft=t&id=822481210366)
+
+直接购买现成的
+
 ## 购买服务器并登录
 
 ### 购买
