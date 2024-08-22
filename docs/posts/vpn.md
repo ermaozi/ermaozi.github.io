@@ -44,7 +44,7 @@ excerpt: 2024 最好用且便宜的机场推荐，每个机场至少由我试用
 
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
-|ssone|[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |39元 500G/月|正常访问|
+|ssone|[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
 |泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|需要代理访问|
 |FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
