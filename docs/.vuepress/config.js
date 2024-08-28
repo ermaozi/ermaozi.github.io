@@ -10,9 +10,9 @@ export default defineUserConfig({
   base: '/',
   title: '二猫子的博客',
   description: '整个博客耍耍',
-  head: [['link', { rel: 'icon', href: 'https://ermaozi.cn/static/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
   theme: defaultTheme({
-    logo: 'https://ermaozi.cn/img/logo.37e78b76.svg',
+    logo: '/images/logo.svg',
 
     navbar: [
       '/',
