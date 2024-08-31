@@ -27,10 +27,10 @@ export default defineUserConfig({
       comment: {
         provider: 'Giscus',
         comment: true,
-        repo: 'ermaozi/blog-comments',
-        repoId: 'MDEwOlJlcG9zaXRvcnkyNTMxNDEyNzI=',
+        repo: 'ermaozi/ermaozi.github.io',
+        repoId: 'R_kgDOL4rZSQ',
         category: 'Announcements',
-        categoryId: 'DIC_kwDODxahGM4CiGNu',
+        categoryId: 'DIC_kwDOL4rZSc4CiGyu',
       }
     }
   }),
