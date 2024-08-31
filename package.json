@@ -16,6 +16,7 @@
     "vuepress-theme-plume": "^1.0.0-rc.92"
   },
   "dependencies": {
-    "ermaozi.github.io": "file:"
+    "ermaozi.github.io": "file:",
+    "vue": "^3.4.38"
   }
 }
