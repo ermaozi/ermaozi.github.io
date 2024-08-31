@@ -5,10 +5,19 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   // 请不要忘记设置默认语言
   lang: 'zh-CN',
+  head: [
+    ['link', { rel: 'icon', href: '/images/favicon.ico' }]
+  ],
   theme: plumeTheme({
     logo: '/images/logo.svg',
+    home: '/blog/',
     hostname: 'https://blog.ermao.net',
-    footer: { message: "© 2024 二猫子" },
+    footer: { message: "© 2024 二猫子 ✉ <a href='mailto:admin@ermao.net'>admin@ermao.net</a>" },
+    navbar: [
+      { text: '博客', link: '/blog/' },
+      { text: '标签', link: '/blog/tags/' },
+      { text: '归档', link: '/blog/archives/' }
+    ],
     profile: {
         name: '二猫子',
         description: '老老实实的二猫子',

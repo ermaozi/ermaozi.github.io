@@ -10,8 +10,6 @@ permalink: /article/pyt7rrkd/
 
 <!-- more -->
 
-# 自己一只搭建二猫子 QQ 机器人
-
 ## 针对高手的一句话搭建
 
 随便搞一个支持 OneBot v11 的客户端，然后把反向 ws 地址改为：

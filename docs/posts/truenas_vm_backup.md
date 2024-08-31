@@ -13,8 +13,6 @@ TrueNAS虚拟机备份
 
 <!-- more -->
 
-# TrueNAS虚拟机备份
-
 ## 虚拟机导出
 
 TrueNAS Scale虚拟化使用ZVOL存储虚拟机，存储路径为：

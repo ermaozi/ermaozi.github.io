@@ -10,8 +10,6 @@ permalink: /article/xao7m6wl/
 
 <!-- more -->
 
-# 【二猫子】机器人使用说明
-
 ## 开始使用
 
 ### 绑定区服
