@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     logo: '/images/logo.svg',
     home: '/blog/',
-    hostname: 'https://blog.ermao.net',
+    hostname: 'https://www.ermao.net',
     footer: { message: "© 2024 二猫子 📧 <a href='mailto:admin@ermao.net'>admin@ermao.net</a>" },
     navbar: [
       { text: '博客', link: '/blog/' },
