@@ -1,15 +1,17 @@
 ---
-date: 2024-08-04
-category:
-  - TrueNAS
-tag:
+createTime: 2024-08-04 12:00:00
+tags:
   - NAS
   - 虚拟机
   - 备份
   - TrueNAS
-
-excerpt: TrueNAS虚拟机备份
+title: TrueNAS虚拟机备份
+permalink: /article/vgf2ez1r/
 ---
+
+TrueNAS虚拟机备份
+
+<!-- more -->
 
 # TrueNAS虚拟机备份
 

@@ -1,12 +1,14 @@
 ---
-date: 2024-05-08
-category:
+createTime: 2024-05-08 12:00:00
+tags:
   - 机器人
-tag:
-  - 机器人
-
-excerpt: 搭建二猫子剑网三QQ群机器人，保姆级教程。
+title: 自己一只搭建二猫子 QQ 机器人
+permalink: /article/pyt7rrkd/
 ---
+
+搭建二猫子剑网三QQ群机器人，保姆级教程。
+
+<!-- more -->
 
 # 自己一只搭建二猫子 QQ 机器人
 

@@ -1,11 +1,14 @@
 ---
-date: 2024-05-29
-category:
+createTime: 2024-05-29 12:00:00
+tags:
   - 机器人
-tag:
-  - 机器人
-excerpt: 二猫子机器人使用说明
+title: 【二猫子】机器人使用说明
+permalink: /article/xao7m6wl/
 ---
+
+二猫子机器人使用说明
+
+<!-- more -->
 
 # 【二猫子】机器人使用说明
 
