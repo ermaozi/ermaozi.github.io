@@ -1,5 +1,5 @@
 ---
-createTime: 2024-08-04 12:00:00
+createTime: 2024/08/04 12:00:00
 tags:
   - NAS
   - 虚拟机

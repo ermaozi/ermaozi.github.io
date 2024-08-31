@@ -1,5 +1,5 @@
 ---
-createTime: 2024-05-08 12:00:00
+createTime: 2024/05/08 12:00:00
 sticky: 100
 draft: true
 tags:

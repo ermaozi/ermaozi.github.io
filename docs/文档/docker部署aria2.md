@@ -1,5 +1,5 @@
 ---
-createTime: 2024-05-09 12:00:00
+createTime: 2024/05/09 12:00:00
 tags:
   - nas
   - aria2
