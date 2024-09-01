@@ -16,6 +16,7 @@
     "vuepress-theme-plume": "^1.0.0-rc.92"
   },
   "dependencies": {
+    "@vuepress/client": "^2.0.0-rc.15",
     "ermaozi.github.io": "file:",
     "vue": "^3.4.38"
   }
