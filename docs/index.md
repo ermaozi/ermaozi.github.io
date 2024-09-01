@@ -5,7 +5,3 @@ config:
   -
     type: custom
 ---
-
-<script>
-  window.location.href = '/blog/'
-</script>
