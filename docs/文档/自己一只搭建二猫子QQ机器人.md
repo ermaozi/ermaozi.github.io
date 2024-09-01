@@ -24,6 +24,8 @@ permalink: /article/pyt7rrkd/
 
 ## 购买服务器并登录
 
+::: details 点击查看详情
+
 ### 购买
 
 腾讯云 [https://curl.qcloud.com/rf4aBb9m](https://curl.qcloud.com/rf4aBb9m)
@@ -77,6 +79,8 @@ permalink: /article/pyt7rrkd/
 ![alt text](images/ermaozi_bot/image-8.png)
 
 事已至此，你已经成功登录到服务器了。
+
+:::
 
 ## 安装 Docker
 
