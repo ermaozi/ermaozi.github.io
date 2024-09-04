@@ -13,7 +13,7 @@ export default defineUserConfig({
     hostname: 'https://www.ermao.net',
     footer: { message: "© 2024 二猫子 📧 <a href='mailto:admin@ermao.net'>admin@ermao.net</a>" },
     navbar: [
-      { text: '博客', link: '/blog/' },
+      { text: '二猫子博客', link: '/blog/' },
       { text: '标签', link: '/blog/tags/' },
       { text: '归档', link: '/blog/archives/' }
     ],
