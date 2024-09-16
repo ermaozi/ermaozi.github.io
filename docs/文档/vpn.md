@@ -1,5 +1,5 @@
 ---
-createTime: 2024/05/08 12:00:00
+createTime: 2024/09/16 12:00:00
 sticky: 100
 tags:
   - 科学上网
@@ -8,7 +8,7 @@ tags:
   - 推荐
   - 评测
   - 便宜机场
-title: 2024年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
+title: 2024年9月便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
 permalink: /posts/vpn/
 ---
 
@@ -31,20 +31,12 @@ permalink: /posts/vpn/
 
 每个机场我都会用小号去偷偷测试，保证没问题了再写到博客里。
 
-## 免费资源
-
-[免费资源汇总]()
-
-需要免费资源的同学可以访问上面的链接。不过免费资源缺点比较明显（速度慢、不稳定，可以应急用）
-
-同时部分免费资源有用量限制，希望各位大佬高抬贵手不要滥用。
-
 ## 汇总
-
 
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
 |ssone|[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
+|青云梯|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
 |泡泡dog|[www.paopaogou002.cloud](https://www.paopaogou002.cloud/#/register?code=AZ1KsNFT)|无|9.9 元 70G/月|需要代理访问|
 |FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
@@ -65,6 +57,20 @@ permalink: /posts/vpn/
 最便宜的订阅有10元 100G/月。
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+
+### 青云梯
+
+注册链接：[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)
+
+邀请码：W5ICDu2y
+
+推广提成比例：20%
+
+试用：无
+
+最便宜的订阅有25元 150G/月。
+
+机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，适合长期使用。
 
 ### TapFog
 
