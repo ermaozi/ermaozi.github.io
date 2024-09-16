@@ -2,6 +2,5 @@
 home: true
 title: 二猫子
 config:
-  -
-    type: custom
+  - type: blog
 ---
