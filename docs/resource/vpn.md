@@ -1,7 +1,6 @@
 ---
-createTime: 2024/09/16 12:00:00
+createTime: 2024/09/19 12:00:00
 sticky: 100
-draft: true
 tags:
   - 科学上网
   - VPN
@@ -38,6 +37,7 @@ permalink: /resource/vpn/
 |---|---|---|--|---|
 |ssone|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
 |青云梯|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
+|龙猫云|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
 |EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
 |FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
 
@@ -70,6 +70,20 @@ permalink: /resource/vpn/
 最便宜的订阅有25元 150G/月。
 
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
+
+### 龙猫云
+
+注册链接：[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)
+
+邀请码：aOkm2wPW
+
+推广提成比例：20%
+
+试用：无
+
+最便宜的订阅有10元 100G/月。
+
+节点质量比较高，客服态度好，解锁主流媒体及AI平台，速度也很快。
 
 ### TapFog
 
