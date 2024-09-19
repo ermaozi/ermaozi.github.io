@@ -33,13 +33,15 @@ permalink: /posts/vpn/
 
 ## 汇总
 
+点击名称可以看到详情
+
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
-|ssone|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
-|青云梯|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
-|龙猫云|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
-|EF|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
-|FC|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
+|[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
+|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
+|[FC](#fc)|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
 
 ## 简介
 
@@ -81,9 +83,19 @@ permalink: /posts/vpn/
 
 试用：无
 
-最便宜的订阅有10元 100G/月。
+最便宜的订阅有15元 150G/月。
 
-节点质量比较高，客服态度好，解锁主流媒体及AI平台，速度也很快。
+**特性如下**
+
+- 超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
+
+- IPLC深港、沪美、沪日专线，
+
+- 流媒体完美解锁（包括Netflix , Disney+, HBO等）
+
+- 完美解锁ChatGPT、Gemini、Copilot
+
+- 支持Tiktok本土短视频运营和直播
 
 ### TapFog
 
