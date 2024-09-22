@@ -5,7 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   lang: 'zh-CN',
   head: [
-    ['link', { rel: 'icon', href: '/images/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/images/favicon.ico' }],
+    ["meta", {"name": "google-adsense-account", "content": "ca-pub-8977830688286964"}]
   ],
   theme: plumeTheme({
     logo: '/images/logo.svg',
