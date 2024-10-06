@@ -1,5 +1,5 @@
 ---
-title: web状态码大全
+title: HTTP 状态码大全
 createTime: 2024/10/06 09:34:56
 permalink: /article/u5a30qtd/
 tags:
@@ -87,7 +87,7 @@ HTTP 状态码是服务器响应请求时返回的状态码，用于表示服务
 - **510 Not Extended**：获取资源所需的策略未满足。
 - **511 Network Authentication Required**：需要网络认证。
 
-## web 状态码的作用
+## HTTP 状态码的作用
 
 ### 1. 指示请求结果
 
