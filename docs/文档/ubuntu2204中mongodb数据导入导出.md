@@ -103,5 +103,4 @@ connection() error occurred during connection handshake: auth error: sasl conver
 ```shell
 # [!code word:--authenticationDatabase=admin]
 mongoimport --uri="mongodb://localhost:27017" --authenticationDatabase=admin --drop output
-
 ```
