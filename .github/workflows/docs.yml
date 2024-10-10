@@ -48,5 +48,20 @@ jobs:
           build_dir: docs/.vuepress/dist
           fqdn: www.ermao.net
         env:
-          # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+      
+      # 推送到 ermaozi/ermao.org
+      - name: Push to ermaozi/ermao.org
+        run: |
+          git config --global user.email 'admin@ermao.net'
+          git config --global user.name 'ermaozi'
+          git clone https://github.com/ermaozi/ermao.org.git
+          cd ermao.org
+          git checkout gh-pages
+          cp -r ../docs/.vuepress/dist/* .
+          echo "www.ermao.org" > CNAME
+          git add .
+          git commit -m "Update docs"
+          git push origin gh-pages
+        env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
