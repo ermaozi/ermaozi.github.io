@@ -6,7 +6,8 @@ export default defineUserConfig({
   lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.ico' }],
-    ["meta", {"name": "keywords", "content": "python,服务器,运维,网络相关,云计算"}]
+    ["meta", {"name": "keywords", "content": "网络知识分享, Python编程技术, 运维教程"}],
+    ["meta", {"name": "description", "content": "想要学习网络知识、Python编程技术和运维教程吗？我们提供高质量的网络知识分享，包括Python编程技术和运维教程，帮助你快速入门和提升技能。"}]
   ],
   theme: plumeTheme({
     logo: '/images/logo.svg',
