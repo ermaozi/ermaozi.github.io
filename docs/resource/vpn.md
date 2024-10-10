@@ -39,6 +39,7 @@ permalink: /resource/vpn/
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
+|[flybit](#flybit)|[flybit.bond](https://flybit.bond/#/register?code=7h1NCdM7)| 无 |10元 100G/月|正常访问|
 |[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
@@ -59,6 +60,18 @@ permalink: /resource/vpn/
 最便宜的订阅有10元 100G/月。
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+
+### flybit
+
+注册链接：[flybit.bond](https://flybit.bond/#/register?code=7h1NCdM7)
+
+邀请码：7h1NCdM7
+
+推广提成比例：20%
+
+最便宜的订阅有10元 100G/月。
+
+解锁流媒体，ChatGPT。节点虽然不多，但是速度还可以，可以试用一下。购买之前记得领一下首页的优惠券再下单。
 
 ### 青云梯
 
