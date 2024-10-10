@@ -6,8 +6,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   head: [
     ['link', { rel: 'icon', href: '/images/favicon.ico' }],
-    ["meta", {"name": "google-adsense-account", "content": "ca-pub-8977830688286964"}],
-    ["meta", {"name": "”Keywords”", "content": "机场,便宜机场,梯子,vpn,科学上网,翻墙,clash,trojan,python,服务器"}]
+    ["meta", {"name": "keywords", "content": "python,服务器,运维,网络相关,云计算"}]
   ],
   theme: plumeTheme({
     logo: '/images/logo.svg',
