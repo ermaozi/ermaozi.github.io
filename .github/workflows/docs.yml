@@ -61,6 +61,8 @@ jobs:
           git clone https://github.com/ermaozi/ermao.org.git
           cd ermao.org
           cp -r /home/runner/work/ermao.net/ermao.net/docs/.vuepress/dist/* .
+          echo "www.ermao.org" > CNAME
+          find . -type f -exec sed -i 's/www.ermao.net/www.ermao.org/g' {} +
           git add .
           git commit -m "Update docs"
           git push https://ermaozi:${{ secrets.GH_PAT }}@github.com/ermaozi/ermao.org.git
