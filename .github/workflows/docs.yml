@@ -50,27 +50,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       
-      - name: Checkout the target repository
-        uses: actions/checkout@v2
-        with:
-          repository: ermaozi/ermao.org
-          token: ${{ secrets.GH_PAT }}
-          path: ermao.org
-
-      - name: Copy built files to the target repository
+      # 推送到 ermaozi/ermao.org
+      - name: Push to ermaozi/ermao.org
         run: |
-          rsync -av --exclude='.git' ./public/ ./ermao.org/
-
-      - name: Configure custom domain
-        run: echo "www.ermao.org" > ./ermao.org/CNAME
-
-      - name: Commit and push changes
-        run: |
+          cd ~
+          git config --global user.email 'admin@ermao.net'
+          git config --global user.name 'ermaozi'
+          git clone https://github.com/ermaozi/ermao.org.git
           cd ermao.org
-          git config --global user.email "admin@ermao.net"
-          git config --global user.name "ermaozi"
+          cp -r ../docs/.vuepress/dist/* .
           git add .
-          git commit -m "Deploy from main repository"
+          git commit -m "Update docs"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
