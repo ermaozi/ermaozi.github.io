@@ -57,11 +57,10 @@ jobs:
           git config --global user.name 'ermaozi'
           git clone https://github.com/ermaozi/ermao.org.git
           cd ermao.org
-          git checkout gh-pages
           cp -r ../docs/.vuepress/dist/* .
           echo "www.ermao.org" > CNAME
           git add .
           git commit -m "Update docs"
-          git push origin gh-pages
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
