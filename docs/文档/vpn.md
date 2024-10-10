@@ -38,7 +38,7 @@ permalink: /posts/vpn/
 |机场名称|地址|试用|最便宜订阅|备注|
 |---|---|---|--|---|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
-|[flybit](#flybit)|[flybit.bond](https://flybit.bond/#/register?code=7h1NCdM7)| 无 |10元 100G/月|正常访问|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|正常访问|
 |[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
@@ -62,11 +62,13 @@ permalink: /posts/vpn/
 
 ### flybit
 
-注册链接：[flybit.bond](https://flybit.bond/#/register?code=7h1NCdM7)
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
 
 邀请码：7h1NCdM7
 
-推广提成比例：20%
+推广提成比例：50%
+
+试用：1天 2G
 
 最便宜的订阅有10元 100G/月。
 
