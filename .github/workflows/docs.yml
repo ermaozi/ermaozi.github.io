@@ -52,6 +52,8 @@ jobs:
       
       # 推送到 ermaozi/ermao.org
       - name: Push to ermaozi/ermao.org
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           cd ~
           git config --global user.email 'admin@ermao.net'
@@ -61,6 +63,4 @@ jobs:
           cp -r /home/runner/work/ermao.net/ermao.net/docs/.vuepress/dist/* .
           git add .
           git commit -m "Update docs"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          git push https://ermaozi:${{ secrets.GH_PAT }}@github.com/ermaozi/ermao.org.git
