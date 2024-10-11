@@ -1,5 +1,5 @@
 ---
-createTime: 2024/10/06 12:00:00
+createTime: 2024/10/11 12:00:00
 sticky: 100
 draft: true
 tags:
@@ -45,6 +45,19 @@ permalink: /resource/vpn/
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
 |[FC](#fc)|[user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)|无|10 元 150G/月|需要代理访问|
 
+## 汇总
+
+点击名称可以看到详情
+
+|机场名称|地址|试用|最便宜订阅|备注|
+|---|---|---|--|---|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|正常访问|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|正常访问|
+|[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
+|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
+
 ## 简介
 
 ### ssone
@@ -61,6 +74,8 @@ permalink: /resource/vpn/
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
 
+---
+
 ### flybit
 
 注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
@@ -75,6 +90,22 @@ permalink: /resource/vpn/
 
 解锁流媒体，ChatGPT。节点虽然不多，但是速度还可以，可以试用一下。购买之前记得领一下首页的优惠券再下单。
 
+---
+
+### 大哥云
+
+注册链接：[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)
+
+邀请码：peAVAa8D
+
+推广提成比例：35%
+
+最便宜的订阅有19.9元 100G/月。
+
+速度非常快，测试可以跑满家用带宽，部分节点解锁 chatgpt。
+
+---
+
 ### 青云梯
 
 注册链接：[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)
@@ -88,6 +119,8 @@ permalink: /resource/vpn/
 最便宜的订阅有25元 150G/月。
 
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
+
+---
 
 ### 龙猫云
 
@@ -113,19 +146,7 @@ permalink: /resource/vpn/
 
 - 支持Tiktok本土短视频运营和直播
 
-### TapFog
-
-注册链接：[ss.vgsseven.com](https://ss.vgsseven.com/#/register?code=rm5I5qDA)
-
-邀请码：rm5I5qDA
-
-推广提成比例：25%
-
-试用：1天，2G流量
-
-最便宜的订阅有8.8元 60G/月。
-
-目前该机场已经停止注册。
+---
 
 ### EF
 
@@ -140,17 +161,3 @@ permalink: /resource/vpn/
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了，如果大家都买这个机场会导致我拿不到多少佣金。所以希望大家首单能多买几个月。
-
-### FC
-
-注册链接：[https://user.fccloud.cc](https://user.fccloud.cc/#/register?code=AYsN4z5L)
-
-邀请码：AYsN4z5L
-
-推广提成比例：50%
-
-试用：无
-
-FC 跟楼上 EF 似乎是同一家，自己用了一周（十四人大期间）左右，非常稳定。
-
-同时价格非常公道，完全可以当作主力机场。
