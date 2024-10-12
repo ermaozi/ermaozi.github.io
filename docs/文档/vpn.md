@@ -35,14 +35,15 @@ permalink: /posts/vpn/
 
 点击名称可以看到详情
 
-|机场名称|地址|试用|最便宜订阅|备注|
-|---|---|---|--|---|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|正常访问|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|正常访问|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|正常访问|
-|[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|正常访问|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|正常访问|
-|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|正常访问|
+|机场名称|地址|试用|最便宜订阅|按流量购买|备注|
+|---|---|---|--|---|---|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|正常访问|
+|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|正常访问|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|正常访问|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|正常访问|
+|[青云梯](#青云梯)|[qytcc02.qingyunti.pro](https://qytcc02.qingyunti.pro/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|正常访问|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|正常访问|
+|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|正常访问|
 
 ## 简介
 
@@ -52,8 +53,6 @@ permalink: /posts/vpn/
 
 邀请码：aBHsE1pF
 
-推广提成比例：20%
-
 试用：1天 1G
 
 最便宜的订阅有10元 100G/月。
@@ -62,13 +61,23 @@ permalink: /posts/vpn/
 
 ---
 
+### xxai
+
+注册链接：[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)
+
+邀请码：K2TpsDcg
+
+最便宜的订阅有16.9元 100G/月。
+
+节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
+
+---
+
 ### flybit
 
 注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
 
 邀请码：7h1NCdM7
-
-推广提成比例：50%
 
 试用：1天 2G
 
@@ -81,8 +90,6 @@ permalink: /posts/vpn/
 ### 大哥云
 
 注册链接：[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)
-
-邀请码：peAVAa8D
 
 推广提成比例：35%
 
@@ -98,8 +105,6 @@ permalink: /posts/vpn/
 
 邀请码：W5ICDu2y
 
-推广提成比例：20%
-
 试用：无
 
 最便宜的订阅有25元 150G/月。
@@ -113,8 +118,6 @@ permalink: /posts/vpn/
 注册链接：[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)
 
 邀请码：aOkm2wPW
-
-推广提成比例：20%
 
 试用：无
 
@@ -139,8 +142,6 @@ permalink: /posts/vpn/
 注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)
 
 邀请码：kbbSUTvm
-
-推广提成比例：20%
 
 试用：无
 
