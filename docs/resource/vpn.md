@@ -30,7 +30,10 @@ permalink: /resource/vpn/
 - 网上没有大量的黑料或是纠纷。
 - 如果同学们有符合条件的机场，欢迎评论或私信推荐！
 
-每个机场我都会用小号去偷偷测试，保证没问题了再写到博客里。
+## telegram 频道与群组
+
+- [telegram 频道](https://t.me/emzvpn)
+- [telegram 群组](https://t.me/emzvpng)
 
 ## 汇总
 
