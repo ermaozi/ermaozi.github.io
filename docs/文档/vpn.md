@@ -43,9 +43,10 @@ permalink: /posts/vpn/
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|正常访问|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|正常访问|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|正常访问|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|正常访问|
-|[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|正常访问|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|正常访问|
+|[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|正常访问|
+|[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|正常访问|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|正常访问|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|正常访问|
 
 ## 简介
@@ -113,6 +114,20 @@ permalink: /posts/vpn/
 最便宜的订阅有25元 150G/月。
 
 机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。
+
+---
+
+### 冲上云霄
+
+注册链接：[cpdd.one](https://cpdd.one/?r=32083)
+
+邀请码：32083
+
+试用：1天 1G
+
+最便宜的订阅有5元 150G/30天。
+
+这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
 
 ---
 
