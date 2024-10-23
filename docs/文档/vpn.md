@@ -176,7 +176,7 @@ permalink: /posts/vpn/
 
 最便宜的订阅有20元 120G/月。
 
-- IEPL专线
+- IEPL专线，trojan协议
 - 原生IP解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等
 - 解锁Tiktok，解锁ChatGPT、Copilot、Gemini等AI工具
 - 晚高峰不限速、不限制客户端
