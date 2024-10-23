@@ -39,16 +39,17 @@ permalink: /resource/vpn/
 
 点击名称可以看到详情
 
-|机场名称|地址|试用|最便宜订阅|按流量购买|备注|
+|机场名称|地址|试用|最便宜订阅|按流量购买|TG群|
 |---|---|---|--|---|---|
-|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|正常访问|
-|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|正常访问|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|正常访问|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|正常访问|
-|[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|正常访问|
-|[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|正常访问|
-|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|正常访问|
-|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|正常访问|
+|[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
+|[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|[点击加入](https://t.me/qingyunticc)|
+|[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
+|[大哥云](#大哥云)|[ermao.dgywzc.com](https://ermao.dgywzc.com/#/register?code=peAVAa8D)| 无 |19.9元 100G/月|❌不支持|[点击加入](https://t.me/dageyun)|
+|[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|[点击加入](https://t.me/efcloud)|
+|[飞天猪](#飞天猪)|[ftzcc01.fliggycloud.pro](https://ftzcc01.fliggycloud.pro/#/register?code=xujZFdn2)|无|20 元 120G/月|❌不支持|[点击加入](https://t.me/Ftzcc01)|
 
 ## 简介
 
@@ -145,13 +146,9 @@ permalink: /resource/vpn/
 **特性如下**
 
 - 超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-
 - IPLC深港、沪美、沪日专线，
-
 - 流媒体完美解锁（包括Netflix , Disney+, HBO等）
-
 - 完美解锁ChatGPT、Gemini、Copilot
-
 - 支持Tiktok本土短视频运营和直播
 
 ---
@@ -167,3 +164,20 @@ permalink: /resource/vpn/
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了，如果大家都买这个机场会导致我拿不到多少佣金。所以希望大家首单能多买几个月。
+
+---
+
+### 飞天猪
+
+注册链接：[ftzcc01.fliggycloud.pro](https://ftzcc01.fliggycloud.pro/#/register?code=xujZFdn2)
+
+邀请码：xujZFdn2
+
+试用：无
+
+最便宜的订阅有20元 120G/月。
+
+- IPLC专线
+- 原生IP解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等
+- 解锁Tiktok，解锁ChatGPT、Copilot、Gemini等AI工具
+- 晚高峰不限速、不限制客户端
