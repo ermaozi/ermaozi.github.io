@@ -8,7 +8,7 @@ tags:
   - 推荐
   - 评测
   - 便宜机场
-title: 2024年10月便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
+title: 2024年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)
 permalink: /posts/vpn/
 ---
 
@@ -40,16 +40,36 @@ permalink: /posts/vpn/
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|TG群|
 |---|---|---|--|---|---|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
 |[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|[点击加入](https://t.me/qingyunticc)|
 |[阿童木](#阿童木)|[www.atomlink.net](https://www.atomlink.net/#/register?code=ZDDxf4ef)| 1G/不限时 |10元 120G/月|✔支持|[点击加入](https://t.me/atomlinknet)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|[点击加入](https://t.me/efcloud)|
 
 ## 简介
+
+### 龙猫云
+
+注册链接：[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)
+
+邀请码：aOkm2wPW
+
+试用：无
+
+最便宜的订阅有15元 150G/月。
+
+**特性如下**
+
+- 超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
+- IPLC深港、沪美、沪日专线，
+- 流媒体完美解锁（包括Netflix , Disney+, HBO等）
+- 完美解锁ChatGPT、Gemini、Copilot
+- 支持Tiktok本土短视频运营和直播
+
+---
 
 ### ssone
 
@@ -130,26 +150,6 @@ permalink: /posts/vpn/
 最便宜的订阅有5元 150G/30天。
 
 这是目前来看最便宜的机场，用户也比较多，节点质量过关。缺点是购买稍微麻烦一点，需要购买充值码进行充值后才能购买套餐。
-
----
-
-### 龙猫云
-
-注册链接：[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)
-
-邀请码：aOkm2wPW
-
-试用：无
-
-最便宜的订阅有15元 150G/月。
-
-**特性如下**
-
-- 超高性价比，节点质量高，客服实时在线，晚高峰不限速，不限制设备。
-- IPLC深港、沪美、沪日专线，
-- 流媒体完美解锁（包括Netflix , Disney+, HBO等）
-- 完美解锁ChatGPT、Gemini、Copilot
-- 支持Tiktok本土短视频运营和直播
 
 ---
 
