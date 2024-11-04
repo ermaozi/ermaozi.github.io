@@ -43,11 +43,11 @@ permalink: /posts/vpn/
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|[点击加入](https://t.me/qingyunticc)|
 |[阿童木](#阿童木)|[www.atomlink.net](https://www.atomlink.net/#/register?code=ZDDxf4ef)| 1G/不限时 |10元 120G/月|✔支持|[点击加入](https://t.me/atomlinknet)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|[点击加入](https://t.me/efcloud)|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 
 ## 简介
 
@@ -94,20 +94,6 @@ permalink: /posts/vpn/
 最便宜的订阅有16.9元 100G/月。
 
 节点质量非常硬。全 IEPL 专线节点、低延迟游戏 & 直播专线、AI 工具 & 流媒体视频解锁。支持按流量购买。
-
----
-
-### flybit
-
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
-
-邀请码：7h1NCdM7
-
-试用：1天 2G
-
-最便宜的订阅有10元 100G/月。
-
-解锁流媒体，ChatGPT。节点虽然不多，但是速度还可以，可以试用一下。购买之前记得领一下首页的优惠券再下单。
 
 ---
 
@@ -164,3 +150,17 @@ permalink: /posts/vpn/
 便宜是真便宜，10 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
 
 最大的缺点就是太便宜了，如果大家都买这个机场会导致我拿不到多少佣金。所以希望大家首单能多买几个月。
+
+---
+
+### flybit
+
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
+
+邀请码：7h1NCdM7
+
+试用：1天 2G
+
+最便宜的订阅有10元 100G/月。
+
+解锁流媒体，ChatGPT。节点虽然不多，但是速度还可以，可以试用一下。购买之前记得领一下首页的优惠券再下单。
