@@ -1,5 +1,5 @@
 ---
-createTime: 2024/11/01 12:00:00
+createTime: 2024/11/26 12:00:00
 sticky: 100
 tags:
   - 科学上网
@@ -29,11 +29,6 @@ permalink: /posts/vpn/
 - 网上没有大量的黑料或是纠纷。
 - 如果同学们有符合条件的机场，欢迎评论或私信推荐！
 
-## telegram 频道与群组
-
-- [telegram 频道](https://t.me/emzvpn)
-- [telegram 群组](https://t.me/emzvpng)
-
 ## 汇总
 
 点击名称可以看到详情
@@ -42,6 +37,7 @@ permalink: /posts/vpn/
 |---|---|---|--|---|---|
 |[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[Aladdin](#aladdin)|[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)|无|30元 390G/半年|❌不支持|暂无|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|[点击加入](https://t.me/qingyunticc)|
 |[阿童木](#阿童木)|[www.atomlink.net](https://www.atomlink.net/#/register?code=ZDDxf4ef)| 1G/不限时 |10元 120G/月|✔支持|[点击加入](https://t.me/atomlinknet)|
@@ -82,6 +78,20 @@ permalink: /posts/vpn/
 最便宜的订阅有10元 100G/月。
 
 这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+
+---
+
+### Aladdin
+
+注册链接：[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)
+
+邀请码：RtNzblsTdt
+
+试用：无
+
+最便宜的订阅有30元 390G/半年。
+
+这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。
 
 ---
 
