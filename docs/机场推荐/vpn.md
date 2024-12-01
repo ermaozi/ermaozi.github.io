@@ -1,5 +1,5 @@
 ---
-createTime: 2024/11/26 12:00:00
+createTime: 2024/12/01 01:00:00
 sticky: 100
 tags:
   - 科学上网
@@ -35,17 +35,44 @@ permalink: /posts/vpn/
 
 |机场名称|地址|试用|最便宜订阅|按流量购买|TG群|
 |---|---|---|--|---|---|
-|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[ssone](#ssone)|[hello-ssone.com](https://hello-ssone.com/register?aff=aBHsE1pF)| 1天 1G |10元 100G/月|❌不支持|[点击加入](https://t.me/+rYzRmCbJfIw3ZTM1)|
+|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
+|[龙猫云](#龙猫云)|[lmspeed.co](https://ermaozi01.lmvipaff.com/register?aff=aOkm2wPW)| 无 |15元 100G/月|❌不支持|[点击加入](https://t.me/totoro_clouds)|
 |[Aladdin](#aladdin)|[https://www.avatargpt.xyz/](https://www.avatargpt.xyz/register?aff=RtNzblsTdt)|无|30元 390G/半年|❌不支持|暂无|
 |[xxai](#xxai)|[xxai.uk](https://xx-ai.co?invite_code=K2TpsDcg)| 无 |16.9元 100G/月|✔支持|[点击加入](https://t.me/xxai_official)|
 |[青云梯](#青云梯)|[ermaozi01.qytvipaff.cc](https://ermaozi01.qytvipaff.cc/register?aff=W5ICDu2y)| 无 |25元 150G/月|❌不支持|[点击加入](https://t.me/qingyunticc)|
-|[阿童木](#阿童木)|[www.atomlink.net](https://www.atomlink.net/#/register?code=ZDDxf4ef)| 1G/不限时 |10元 120G/月|✔支持|[点击加入](https://t.me/atomlinknet)|
 |[冲上云霄](#冲上云霄)|[https://cpdd.one](https://cpdd.one/?r=32083)| 1天 1G |5元 150G/30天|✔支持|[点击加入](https://t.me/vpnpn123)|
 |[EF](#ef)|[www.efcloud1.com](https://www.efcloud1.com/#/register?code=kbbSUTvm)|无|10 元 200G/月|❌不支持|[点击加入](https://t.me/efcloud)|
-|[flybit](#flybit)|[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)| 1天2G |10元 100G/月|✔支持|[点击加入](https://t.me/flybitvip)|
 
 ## 简介
+
+### ssone
+
+注册链接：[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)
+
+邀请码：aBHsE1pF
+
+试用：1天 1G
+
+最便宜的订阅有10元 100G/月。
+
+这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
+
+---
+
+### flybit
+
+注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
+
+邀请码：7h1NCdM7
+
+试用：1天 2G
+
+最便宜的订阅有10元 100G/月。
+
+解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。
+
+---
 
 ### 龙猫云
 
@@ -64,20 +91,6 @@ permalink: /posts/vpn/
 - 流媒体完美解锁（包括Netflix , Disney+, HBO等）
 - 完美解锁ChatGPT、Gemini、Copilot
 - 支持Tiktok本土短视频运营和直播
-
----
-
-### ssone
-
-注册链接：[m.ssone.io](https://hello-ssone.com/register?aff=aBHsE1pF)
-
-邀请码：aBHsE1pF
-
-试用：1天 1G
-
-最便宜的订阅有10元 100G/月。
-
-这家机场是我自己用的，一分钱一分货，节点较多，速度非常快，节点支持 Netflix。适合有一定需求的同学。
 
 ---
 
@@ -121,20 +134,6 @@ permalink: /posts/vpn/
 
 ---
 
-### 阿童木
-
-注册链接：[www.atomlink.net](https://www.atomlink.net/#/register?code=ZDDxf4ef)
-
-邀请码：ZDDxf4ef
-
-试用：1G/不限时
-
-最便宜的订阅有10元 120G/月。
-
-这是家新开的机场，目前价格还比较实惠。我试用了一周，节点比较稳定，速度也不错。
-
----
-
 ### 冲上云霄
 
 注册链接：[cpdd.one](https://cpdd.one/?r=32083)
@@ -161,16 +160,3 @@ permalink: /posts/vpn/
 
 最大的缺点就是太便宜了，如果大家都买这个机场会导致我拿不到多少佣金。所以希望大家首单能多买几个月。
 
----
-
-### flybit
-
-注册链接：[goflybit.pages.dev](https://goflybit.pages.dev/#/register?code=7h1NCdM7)
-
-邀请码：7h1NCdM7
-
-试用：1天 2G
-
-最便宜的订阅有10元 100G/月。
-
-解锁流媒体，ChatGPT。节点虽然不多，但是速度还可以，可以试用一下。购买之前记得领一下首页的优惠券再下单。
