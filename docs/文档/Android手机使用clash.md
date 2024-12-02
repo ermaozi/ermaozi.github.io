@@ -52,7 +52,7 @@ tags:
 
 将获取到的 URL 粘贴到这里，点击确定
 
-如果你没有 URL，可以在这里获取：[便宜好用的翻墙机场推荐评测](./vpn.md)
+如果你没有 URL，可以在这里获取：[便宜好用的翻墙机场推荐评测](https://www.ermao.net/posts/vpn)
 
 ![alt text](images/Android手机使用clash/image-4.png)
 
