@@ -40,7 +40,7 @@ export default defineUserConfig({
       comment: {
         provider: 'Giscus',
         comment: true,
-        repo: 'ermaozi/ermaozi.github.io',
+        repo: 'ermaozi/ermao.net',
         repoId: 'R_kgDOL4rZSQ',
         category: 'Announcements',
         categoryId: 'DIC_kwDOL4rZSc4CiGyu',
